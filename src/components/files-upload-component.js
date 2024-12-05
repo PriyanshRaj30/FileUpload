@@ -25,7 +25,7 @@ export default function FilesUploadComponent() {
 
   return (
     <div className="container">
-      <h2 className="mb-3">React 18 Node Multiple File Upload Example</h2>
+      <h2 className="mb-3"> File Upload</h2>
       <form onSubmit={onSubmit}>
         <div className="mb-3">
           <input
